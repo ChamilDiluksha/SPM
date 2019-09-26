@@ -27,6 +27,7 @@ public class countDoubleQuotes {
                count++;
            }
         }
+        count++;
                 
         return (count / 2);
     }    
